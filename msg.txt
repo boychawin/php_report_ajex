@@ -16,3 +16,5 @@ https://boychawin.com/blog-detail/556
 2. ติดตั้งฐานข้อมูล .sql ที่โฟลเดอร์ db
 3. นำไฟล์โปรเจคไปไว้ในโฟลเดอร์ htdocs สำหรับคนที่ใช้ XAMPP
 4. รัน  https://localhost/ชื่อโฟลเดอร์/
+
+https://github.com/boychawin/Modal_AJAX
